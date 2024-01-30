@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>filter_tools</name>
+  <version>0.0.0</version>
+  <description>The filter_tools package</description>
+  <maintainer email="sgrsn1711@gmail.com">hidaka</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
